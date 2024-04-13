@@ -29,3 +29,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# 忽略 YAML 文件
+*.yaml
+*.yml
+
+# 忽略 Properties 文件
+*.properties
+
